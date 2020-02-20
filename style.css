@@ -1,0 +1,18 @@
+.mountains {
+    background-image: url(./background4edit.png);
+    background-size: cover;
+    background-position: 50%;
+    /* padding-bottom: 30%; */
+    height: 100vh;
+    position: relative;
+}
+
+.navbar-nav {
+    margin-right: 15px;
+}
+
+.dropdown-menu.show {
+    display: block;
+    background: none;
+    border: none;
+}
